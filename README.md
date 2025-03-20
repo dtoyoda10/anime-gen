@@ -1,12 +1,8 @@
 # AI Anime Art Generator
 
-Welcome to the codebase of the wonderful tool AI Anime Arg Generator!
+Welcome to the codebase of the wonderful tool AI Anime Generator!
 
-AI Anime Art Generator is an AI-driven cutting-edge tool for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience.
-
-website: [https://aianimeartgenerator.com](https://aianimeartgenerator.com)
-
-![AI Anime Art Generator](https://i.imgur.com/nwXhYnQ.png)
+AI Anime Generator is a deep learning-powered tool that creates high-quality anime-style artwork from sketches, descriptions, or real images. Using advanced neural networks like GANs (Generative Adversarial Networks) and diffusion models, the AI generates unique anime characters, backgrounds, and illustrations. This project is ideal for artists, content creators, and anime enthusiasts who want to explore AI-generated anime art.
 
 ## Use Cases
 
@@ -39,8 +35,8 @@ AI Anime Art Generator is built on the following stack:
 Clone the codebase to your local machine.
 
 ```bash
-git clone https://github.com/enterwiz/ai-anime-art-generator.git
-cd ai-anime-art-generator
+git clone https://github.com/dtoyoda10/anime-gen.git
+cd anime-gen
 ```
 
 Initialize your local postgres database or use remote Supabase database.
